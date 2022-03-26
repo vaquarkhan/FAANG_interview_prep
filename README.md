@@ -43,3 +43,7 @@ Watch sample Google technical Interview: https://lnkd.in/gXFRwvhS.
 See my 4 Ruby solutions to their sample Google interview: https://lnkd.in/gNmgtxnd
 _
 Use this link to see all my Data Structures + Algorithms posts: https://lnkd.in/dZCedQVN. I number each one. #raymonddsa
+
+
+- https://github.com/rayning0/tech-interview-handbook
+- https://github.com/rayning0/Princeton-Algorithms-Java
